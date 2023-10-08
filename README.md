@@ -16,7 +16,7 @@ This repository contains a custom object detection project using YOLOv8. In this
 
 - **Framework**: Ultralytics YOLOv8
 
-![Train F1 Curve](runs/detect/train/F1_curve.jpg)
+![Train F1 Curve](runs/detect/train/F1_curve.png)
 ![Labels](labels.jpg)
 ![Train Results](results.png)
 ![Validation Batch Prediction](val_batch0_pred.jpg)
