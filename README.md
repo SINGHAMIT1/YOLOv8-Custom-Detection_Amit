@@ -22,7 +22,7 @@ This repository contains a custom object detection project using YOLOv8. In this
 ![Validation Batch 0 Label](runs/detect/val/val_batch0_labels.jpg)
 ![Validation Batch 0 Prediction](runs/detect/val/val_batch0_pred.jpg)
 ![Predictions on Test Data Samples](runs/detect/predict/14.jpg) 
-![Predictions on Test Data Samples]((runs/detect/predict/23.jpeg))
+
 
 
 
